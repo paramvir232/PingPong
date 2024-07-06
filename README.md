@@ -1,5 +1,5 @@
-#Classic Ping Pong Game with Python Turtle Graphics
-
+**#Classic Ping Pong Game with Python Turtle Graphics
+**
 Overview
 This project is a classic Ping Pong game implemented using Python's Turtle graphics module. It features dynamic ball speed, interactive paddle controls, realistic ball physics, and score keeping. The game can be played in both single-player and multiplayer modes, providing an engaging and competitive experience.
 
